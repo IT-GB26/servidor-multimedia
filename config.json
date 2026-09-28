@@ -1,0 +1,8 @@
+{
+  "servidor": "https://nuke-florida-project-recorded.trycloudflare.com",
+  "actualizacion_segundos": 60,
+  "sectores": {
+    "congo": true,
+    "coatepeque": true
+  }
+}
